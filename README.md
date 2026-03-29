@@ -29,16 +29,3 @@
   <a href="https://github.com/Envyosity"><img src="https://github-readme-stats-envyositys-projects.vercel.app/api?username=Envyosity&show_icons=true&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="Envyosity's github stats"></a>
     <img height="195px" src="https://github-readme-stats-envyositys-projects.vercel.app/api/top-langs/?username=arthmalbeck&langs_count=7&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&layout=compact&exclude_repo=github-readme-stats,novatorem"/>
 </div>
-
-<br/>
-
-<h3 align="center">🎧 Ouvindo & 🎮 Jogando</h3>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://open.spotify.com/user/leonardozkl">
-    <img src="https://novatorem-envyositys-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
-  </a>
-  <a href="https://www.exophase.com/user/Dredgen_LeoK/">
-    <img src="https://card.exophase.com/2/0/287641.png?1744243131" alt="Exophase Gamercard" width="300"/>
-  </a>
-</div>
