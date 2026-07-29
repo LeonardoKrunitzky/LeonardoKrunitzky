@@ -20,12 +20,3 @@
   <img alt="PostgreSQL" height="40" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
   <img alt="Docker" height="40" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"/>
 </div>
-
-<br/>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <a href="https://github.com/LeonardoKrunitzky"><img src="https://github-readme-stats-envyositys-projects.vercel.app/api?username=Envyosity&show_icons=true&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="Envyosity's github stats"></a>
-    <img height="195px" src="https://github-readme-stats-envyositys-projects.vercel.app/api/top-langs/?username=arthmalbeck&langs_count=7&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&layout=compact&exclude_repo=github-readme-stats,novatorem"/>
-</div>
