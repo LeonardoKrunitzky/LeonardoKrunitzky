@@ -30,7 +30,7 @@
 <h3>📊 GitHub Stats</h3>
 <hr>
 <div align="center">
-    <img height="195px" src="https://github-readme-stats-five-psi-97.vercel.app/api?username=LeonardoKrunitzky&show_icons=true&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="Leonardo's github stats"/>
-    <img height="195px" src="https://github-readme-stats-five-psi-97.vercel.app/api/top-langs/?username=LeonardoKrunitzky&langs_count=7&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&layout=compact&exclude_repo=github-readme-stats"/>
+    <img height="195px" src="https://github-readme-stats-leoky-projects.vercel.app/api?username=LeonardoKrunitzky&show_icons=true&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true" alt="Leonardo's github stats"/>
+    <img height="195px" src="https://github-readme-stats-leoky-projects.vercel.app/api/top-langs/?username=LeonardoKrunitzky&langs_count=7&theme=merko&bg_color=30,141E30,243B55&title_color=fff&text_color=fff&layout=compact&exclude_repo=github-readme-stats"/>
 </div>
 
