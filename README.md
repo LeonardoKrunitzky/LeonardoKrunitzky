@@ -31,6 +31,6 @@
 <hr>
 <div align="center">
     <img height="195px" src="https://github-readme-stats-leoky-projects.vercel.app/api?username=LeonardoKrunitzky&show_icons=true&theme=synthwave&include_all_commits=true" alt="Leonardo's github stats"/>
-    <img height="195px" src="https://github-readme-stats-leoky-projects.vercel.app/api/top-langs/?username=LeonardoKrunitzky&langs_count=7&theme=synthwave&exclude_repo=github-readme-stats"/>
+    <img height="195px" src="https://github-readme-stats-leoky-projects.vercel.app/api/top-langs/?username=LeonardoKrunitzky&langs_count=7&theme=synthwave&exclude_repo=github-readme-stats&layout=donut"/>
 </div>
 
