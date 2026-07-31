@@ -32,6 +32,5 @@
 <div align="center">
     <img height="195px" src="https://github-readme-stats-leoky-projects.vercel.app/api?username=LeonardoKrunitzky&show_icons=true&theme=synthwave&include_all_commits=true" alt="Leonardo's github stats"/>
     <img height="195px" src="https://github-readme-stats-leoky-projects.vercel.app/api/top-langs/?username=LeonardoKrunitzky&langs_count=7&theme=synthwave&exclude_repo=github-readme-stats&layout=donut"/>
-  <img height="195px" src="https://github-readme-stats-leoky-projects.vercel.app/api/wakatime?username=fb75365f-26d5-4b2c-be3f-8871836dba00&theme=synthwave&layout=compact&range=all_time" alt="Leonardo's WakaTime Stats"/>
 </div>
 
